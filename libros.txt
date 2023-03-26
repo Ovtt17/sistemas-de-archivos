@@ -1,0 +1,12 @@
+Titulo: naruto
+Edicion: 4
+Autor: aaa
+---------------------------
+Titulo: one piece
+Edicion: 1
+Autor: oda
+---------------------------
+Titulo: nose
+Edicion: 3
+Autor: aaa
+---------------------------

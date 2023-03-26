@@ -1,0 +1,12 @@
+Nombre: ana
+Identificacion: 2
+Tipo de usuario: estudi
+---------------------------
+Nombre: ovett
+Identificacion: 1
+Tipo de usuario: estu
+---------------------------
+Nombre: ana
+Identificacion: 2
+Tipo de usuario: docente
+---------------------------
